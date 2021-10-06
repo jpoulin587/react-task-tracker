@@ -13,16 +13,16 @@
       "reminder": false
     },
     {
-      "text": "sadasda",
-      "day": "monday",
-      "reminder": false,
-      "id": 3
+      "id": 3,
+      "text": "follow up on stuff",
+      "day": "Oct 5th at 2:30pm",
+      "reminder": false
     },
     {
-      "text": "gkhjkhjkh",
-      "day": "hgjghj",
+      "text": "vbncvnvbn",
+      "day": "vbnvbnvbn",
       "reminder": false,
-      "id": 4
+      "id": 5
     }
   ],
   "profile": {
